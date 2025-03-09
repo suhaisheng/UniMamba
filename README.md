@@ -65,7 +65,7 @@ Recent advances in LiDAR 3D detection have demonstrated the effectiveness of Tra
 TBD
 
 ## License
-This project is released under the [Apache 2.0 license](./LICENSE)
+This project is released under the [MIT license](./LICENSE)
 
 
 ## Contact
