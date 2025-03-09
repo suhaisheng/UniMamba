@@ -53,11 +53,11 @@ Recent advances in LiDAR 3D detection have demonstrated the effectiveness of Tra
 <div align="center"><img src="assets/nuscenes.png" width="900"/></div>
 
 ## Evaluation on Waymo Open dataset
-<div align="center"><img src="assets/waymo.png" width="800"/></div>
+<div align="center"><img src="assets/waymo.png" width="900"/></div>
 
 ## Evaluation on Argoverse2 dataset
 <div align="center">
-<img src="assets/argoverse.png" width="770"/>
+<img src="assets/argoverse.png" width="900"/>
 </div>
 
 
