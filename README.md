@@ -3,7 +3,7 @@
 <h1>UniMamba</h1>
 <h3>Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection</h3>
 
-Xin Jin<sup>♠️, 2,3</sup>, [Haisheng Su](https://scholar.google.com.hk/citations?user=OFrMZh8AAAAJ&hl=zh-CN)<sup>♠️,1,3 :email:</sup>, Kai Liu<sup>3</sup>, Cong Ma<sup>3</sup>, [Wei Wu](https://scholar.google.com.hk/citations?hl=zh-CN&user=9RBxtd8AAAAJ)<sup>3</sup>, Fei HUI<sup>3 :email:</sup>, [Junchi Yan](https://thinklab.sjtu.edu.cn/)<sup>1 :email:</sup>
+Xin Jin<sup>♠️,2,3</sup>, [Haisheng Su](https://scholar.google.com.hk/citations?user=OFrMZh8AAAAJ&hl=zh-CN)<sup>♠️,1,3 :email:</sup>, Kai Liu<sup>3</sup>, Cong Ma<sup>3</sup>, [Wei Wu](https://scholar.google.com.hk/citations?hl=zh-CN&user=9RBxtd8AAAAJ)<sup>3</sup>, Fei HUI<sup>3 :email:</sup>, [Junchi Yan](https://thinklab.sjtu.edu.cn/)<sup>1 :email:</sup>
 
 <sup>1</sup> School of Computer Science, Shanghai Jiao Tong University
 
