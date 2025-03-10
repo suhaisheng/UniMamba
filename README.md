@@ -22,7 +22,7 @@ Xin Jin<sup>♠️,2,3</sup>, [Haisheng Su](https://scholar.google.com.hk/citati
 
 ## News
 * **` Mar. 9th, 2025`:** We released our paper on Arxiv. Code/Models  are coming soon. Please stay tuned! ☕️
-* * **` Mar. 9th, 2025`:** Our paper has been accepted to CVPR 2025!
+* **` Mar. 9th, 2025`:** Our paper has been accepted to CVPR 2025!
 
 <!-- [Arxiv](https://arxiv.org/abs/2409.09777) -->
 
