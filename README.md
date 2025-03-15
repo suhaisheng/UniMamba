@@ -9,9 +9,9 @@ Xin Jin<sup>♠️,2,3</sup>, [Haisheng Su](https://scholar.google.com.hk/citati
 
 <sup>2</sup> Chang'an University, <sup>3</sup> SenseAuto Research, <sup>4</sup> Tsinghua University
 
-<sup>♠️</sup> Equal Contribution
+<sup>♠️</sup> Equal Contributions
 
-<sup>:email:</sup> Corresponding author
+<sup>:email:</sup> Corresponding authors
 
 
 <!-- ![Paper](https://img.shields.io/badge/cs.CV-2403.06977-b31b1b?logo=arxiv&logoColor=red) -->
